@@ -3,25 +3,30 @@
 import { Card } from '@/components/ui/card'
 import { getAllWords, type Word } from '@/lib/data'
 import { useState } from 'react'
-import Image from 'next/image'
 
 function Thumbnail({ src, alt }: { src?: string; alt: string }) {
 	const [error, setError] = useState(false)
-	
+
 	if (!src || error) {
 		return (
 			<div className='w-full h-full flex items-center justify-center text-muted-foreground text-2xl font-bold'>
-				{alt.charAt(0).toUpperCase()}
+				{alt?.charAt(0)?.toUpperCase()}
 			</div>
 		)
 	}
-	
+
+	// Use a plain <img> instead of next/image here. Next's Image component
+	// performs server-side validation/optimization and will surface errors
+	// when the file is missing (causing the "not a valid image" logs).
+	// A regular <img> lets us handle 404/broken images client-side with
+	// onError and render a friendly placeholder instead.
 	return (
-		<Image
+		// eslint-disable-next-line @next/next/no-img-element
+		<img
 			src={src}
 			alt={alt}
-			fill
-			className='object-cover'
+			className='w-full h-full object-cover'
+			loading='lazy'
 			onError={() => setError(true)}
 		/>
 	)
