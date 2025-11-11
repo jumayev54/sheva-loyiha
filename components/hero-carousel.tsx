@@ -8,13 +8,13 @@ const heroImages = [
     id: 1,
     image: "/photo_1_2025-11-10_22-14-44.jpg",
     title: "O'zbek Shevalarini Kashf Eting",
-    subtitle: "500+ so'z, 5+ viloyat dialektlari",
+    subtitle: "Surxondaryo viloyati dialektlari",
   },
   {
     id: 2,
     image: "/photo_2_2025-11-10_22-14-44.jpg",
-    title: "Til va Madaniyat Xazinasi",
-    subtitle: "Surxondaryo va boshqa viloyatlar shevalari",
+    title: "Til Madaniyat Xazinasi",
+    subtitle: "Surxondaryo viloyati Jarqoʻrgʻon tumani shevalari jamlanmasi",
   },
   {
     id: 3,

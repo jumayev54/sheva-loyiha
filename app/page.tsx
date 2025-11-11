@@ -8,6 +8,7 @@ import { HeroCarousel } from "@/components/hero-carousel"
 import { FeaturedWords } from "@/components/featured-words"
 import { WordsTable } from "@/components/words-table"
 import { WordDetails } from "@/components/word-details"
+import { AboutPage } from "@/components/about-page"
 import { Footer } from "@/components/footer"
 
 type PageType = "home" | "words" | "contact" | "about" | "details"
@@ -110,17 +111,7 @@ export default function Page() {
             </div>
           </div>
         )}
-        {currentPage === "about" && (
-          <div className="min-h-screen bg-background">
-            <div className="max-w-4xl mx-auto px-4 sm:px-6 py-8 sm:py-16">
-              <h1 className="text-3xl sm:text-4xl font-bold mb-6">Loyiha Haqida</h1>
-              <div className="space-y-4 text-foreground leading-relaxed">
-                <p>Dialect - Uzbek tilining xilma-xil dialektlarini va iboralarini o'rganing.</p>
-                <p>Ushbu loyiha Uzbekiston filologiyasi va tilshunosligi bo'yicha tug'ilgan.</p>
-              </div>
-            </div>
-          </div>
-        )}
+        {currentPage === "about" && <AboutPage />}
       </main>
 
       <Footer />
