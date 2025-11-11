@@ -1,6 +1,5 @@
-// Prefer updated mapping if present (script output). If you want to revert, change this import
-// back to '@/sheva.json'.
-import shevaData from '@/sheva.updated.json'
+// Import main data from sheva.json
+import shevaData from '@/sheva.json'
 
 export interface Word {
   "№": string
@@ -45,6 +44,19 @@ export function getCategories(): string[] {
 }
 
 export function getFeaturedWords(count: number = 6): Word[] {
-  // Birinchi so'zlarni qaytaradi (server va client uchun bir xil)
-  return words.slice(0, count)
+  // Maxsus tanlab olingan so'zlar (Unicode U+2019 apostrophe ishlatilgan)
+  const featuredWordNames = [
+    'Telefon',
+    'Sigir',
+    'Qo\u2019chqor',  // Qo'chqor
+    'Ko\u2019zoynak', // Ko'zoynak
+    'Choynak',
+    'Velosiped'
+  ]
+  
+  const featured = featuredWordNames
+    .map(name => words.find(w => w['Adabiy til'] === name))
+    .filter((w): w is Word => w !== undefined && !!w.image)
+  
+  return featured.slice(0, count)
 }

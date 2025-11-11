@@ -736,7 +736,8 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "Tiny amount",
-    "image": "/imgs/8062d53289f03089cbfa33bde946a0ab.jpg"
+    "image": "/imgs/8062d53289f03089cbfa33bde946a0ab.jpg",
+    "audio": "/audio/picha.aac"
   },
   {
     "№": "54.",
@@ -2073,7 +2074,8 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "to blow",
-    "image": "/imgs/yelpigich.jpg"
+    "image": "/imgs/yelpigich.jpg",
+    "audio": "/audio/yelpimoq.acc"
   },
   {
     "№": "155.",
@@ -2821,7 +2823,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "Unhappy",
-    "audio": "/audio/baxtiqaro.aac"
+    "audio": "/audio/bebaxt.aac"
   },
   {
     "№": "212.",
@@ -2872,7 +2874,8 @@
     "Misol": "",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "for nothing"
+    "Inglizcha tarjimasi": "for nothing",
+    "audio": "/audio/bekor.acc"
   },
   {
     "№": "216.",
@@ -3794,7 +3797,8 @@
     "Misol": "",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "fortune teller"
+    "Inglizcha tarjimasi": "fortune teller",
+    "audio": "/audio/folchi.aac"
   },
   {
     "№": "288.",
@@ -4222,7 +4226,8 @@
     "Misol": "",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "to get wet"
+    "Inglizcha tarjimasi": "to get wet",
+    "audio": "/audio/jivimoq.acc"
   },
   {
     "№": "321.",
@@ -4429,7 +4434,8 @@
     "Misol": "Itčȉbȉn ǯudȁ ǯāmȁn hȁšȁrȁt",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "dog fly"
+    "Inglizcha tarjimasi": "dog fly",
+    "audio": "/audio/itchivin.acc"
   },
   {
     "№": "337.",
@@ -4790,7 +4796,8 @@
     "Misol": "Biz har jȉli majȁpkaga boramiz",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "Picnic"
+    "Inglizcha tarjimasi": "Picnic",
+    "audio": "/audio/mayofka.acc"
   },
   {
     "№": "365.",
@@ -5076,7 +5083,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "Relative",
-    "audio": "og'ayin.acc"
+    "audio": "/audio/og'ayin.acc"
   },
   {
     "№": "387.",
@@ -5623,7 +5630,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "to panic",
-    "audio": "/audio/hovliqmoq.aac"
+    "audio": "/audio/uchqaloqlamoq.aac"
   },
   {
     "№": "429.",
@@ -6062,7 +6069,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "Edge",
-    "audio": "/audio/chekka.aac"
+    "audio": "/audio/chakka.aac"
   },
   {
     "№": "463.",
@@ -6152,7 +6159,8 @@
     "Misol": "Ječkilardȉŋ ičida čȁlγi ječki ham bārakȁn",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "white-eared goat"
+    "Inglizcha tarjimasi": "white-eared goat",
+    "audio": "/audio/uloq.aac"
   },
   {
     "№": "470.",
@@ -6203,7 +6211,8 @@
     "Misol": "Ximȉš minan putiga sāldi",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "Rod"
+    "Inglizcha tarjimasi": "Rod",
+    "audio": "/audio/xivich.aac"
   },
   {
     "№": "474.",
@@ -6256,7 +6265,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "Small",
-    "audio": "/audio/mayda.aac"
+    "audio": "/audio/maydagina.aac"
   },
   {
     "№": "478.",

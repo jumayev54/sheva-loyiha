@@ -45,8 +45,17 @@ export function HomePage() {
                 key={idx}
                 className="p-6 hover:shadow-lg hover:border-primary/50 transition-all cursor-pointer bg-card border border-border"
               >
-                <div className="flex items-start justify-between mb-3">
-                  <div>
+                <div className="flex items-start gap-4 mb-3">
+                  {item.image && (
+                    <div className="w-20 h-20 shrink-0 rounded-lg overflow-hidden bg-gradient-to-br from-primary/10 to-accent/10">
+                      <img 
+                        src={item.image} 
+                        alt={item["Adabiy til"]}
+                        className="w-full h-full object-cover"
+                      />
+                    </div>
+                  )}
+                  <div className="flex-1">
                     <h3 className="text-xl font-bold text-primary">{item["Adabiy til"]}</h3>
                     <p className="text-muted-foreground text-sm mt-1">{item.Transliteratsiya}</p>
                   </div>

@@ -55,18 +55,27 @@ export function WordsTable({ onSelectWord }: WordsTableProps) {
               className="bg-card w-full pl-10 h-12 border-2 focus:border-primary shadow-sm"
             />
           </div>
-          <select
-            value={filterCategory}
-            onChange={(e) => setFilterCategory(e.target.value)}
-            className="px-4 py-3 rounded-lg bg-card border-2 border-border text-foreground w-full sm:w-64 shadow-sm hover:border-primary transition-colors cursor-pointer"
-          >
-            <option value="">Barcha Turkumlari</option>
-            {categories.map((cat) => (
-              <option key={cat} value={cat}>
-                {cat}
-              </option>
-            ))}
-          </select>
+          <div className="relative">
+            <svg className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
+            </svg>
+            <select
+              value={filterCategory}
+              onChange={(e) => setFilterCategory(e.target.value)}
+              className="pl-10 pr-10 py-3 rounded-lg bg-card border-2 border-border text-foreground w-full sm:w-64 shadow-sm hover:border-primary transition-colors cursor-pointer appearance-none leading-tight"
+              style={{ paddingTop: '0.75rem', paddingBottom: '0.75rem' }}
+            >
+              <option value="" className="py-2">Barcha Turkumlari</option>
+              {categories.map((cat) => (
+                <option key={cat} value={cat} className="py-2">
+                  {cat}
+                </option>
+              ))}
+            </select>
+            <svg className="absolute right-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+            </svg>
+          </div>
         </div>
 
         {/* Table */}
