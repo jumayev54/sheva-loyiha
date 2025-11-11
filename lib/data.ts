@@ -1,4 +1,6 @@
-import shevaData from '@/sheva.json'
+// Prefer updated mapping if present (script output). If you want to revert, change this import
+// back to '@/sheva.json'.
+import shevaData from '@/sheva.updated.json'
 
 export interface Word {
   "№": string

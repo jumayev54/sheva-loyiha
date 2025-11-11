@@ -7,19 +7,19 @@ const heroImages = [
   {
     id: 1,
     image: "/photo_1_2025-11-10_22-14-44.jpg",
-    title: "O'zbek Shevalarini Kashf Eting",
+    title: "O'zbek shevalarini kashf eting",
     subtitle: "Surxondaryo viloyati dialektlari",
   },
   {
     id: 2,
     image: "/photo_2_2025-11-10_22-14-44.jpg",
-    title: "Til Madaniyat Xazinasi",
+    title: "Til madaniyat xazinasi",
     subtitle: "Surxondaryo viloyati Jarqoʻrgʻon tumani shevalari jamlanmasi",
   },
   {
     id: 3,
     image: "/photo_3_2025-11-10_22-14-44.jpg",
-    title: "To'liq Lug'at va Tahlil",
+    title: "To'liq lug'at va tahlil",
     subtitle: "Har bir so'zning to'liq tahlili va misollari",
   },
 ]
