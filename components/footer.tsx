@@ -7,18 +7,23 @@ export function Footer() {
             <h3 className="text-lg font-bold mb-4">Foydali Havolalar</h3>
             <ul className="space-y-2">
               <li>
-                <a href="https://tersu.uz/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
-                  Termiz Davlat Universiteti
+                <a href="https://dialect.uz/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+                  Dialect.uz
                 </a>
               </li>
               <li>
-                <a href="https://axborottexnologiyalar.uz/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
-                  Axborot Texnologiyalar Fakulteti
+                <a href="https://uzbekcorpus.uz/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+                  O'zbek Korpusi
                 </a>
               </li>
               <li>
-                <a href="https://ziyonet.uz/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
-                  ZiyoNET Ta'lim Portali
+                <a href="https://uzschoolcorpara.uz/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+                  UzSchool Korpora
+                </a>
+              </li>
+              <li>
+                <a href="http://v1.alishernavoycorpus.uz/korpus_haqida/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+                  Alisher Navoiy Korpusi
                 </a>
               </li>
             </ul>
