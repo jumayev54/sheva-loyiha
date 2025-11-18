@@ -73,7 +73,7 @@
     "Adabiy til": "Qo’chqor",
     "Turkumi": "Ot",
     "Transliteratsiya": "Vuchqar",
-    "Transkripsiya": "Γčqar",
+    "Transkripsiya": "ͮ očqȁr",
     "Izohi": "Qo’yning erkagi qo’chqor deyiladi",
     "Misol": "Qőramizdȁ гčqar kőp",
     "Hudud(viloyat)": "Surxondaryo",
@@ -736,8 +736,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "Tiny amount",
-    "image": "/imgs/8062d53289f03089cbfa33bde946a0ab.jpg",
-    "audio": "/audio/picha.aac"
+    "image": "/imgs/8062d53289f03089cbfa33bde946a0ab.jpg"
   },
   {
     "№": "54.",
@@ -2074,8 +2073,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "to blow",
-    "image": "/imgs/yelpigich.jpg",
-    "audio": "/audio/yelpimoq.acc"
+    "image": "/imgs/yelpigich.jpg"
   },
   {
     "№": "155.",
@@ -2823,7 +2821,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "Unhappy",
-    "audio": "/audio/bebaxt.aac"
+    "audio": "/audio/baxtiqaro.aac"
   },
   {
     "№": "212.",
@@ -2874,8 +2872,7 @@
     "Misol": "",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "for nothing",
-    "audio": "/audio/bekor.acc"
+    "Inglizcha tarjimasi": "for nothing"
   },
   {
     "№": "216.",
@@ -3060,8 +3057,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "Axe",
-    "audio": "/audio/bolta.aac",
-    "image": "/imgs/bolta.jpg"
+    "audio": "/audio/bolta.aac"
   },
   {
     "№": "230.",
@@ -3797,8 +3793,7 @@
     "Misol": "",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "fortune teller",
-    "audio": "/audio/folchi.aac"
+    "Inglizcha tarjimasi": "fortune teller"
   },
   {
     "№": "288.",
@@ -4226,8 +4221,7 @@
     "Misol": "",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "to get wet",
-    "audio": "/audio/jivimoq.acc"
+    "Inglizcha tarjimasi": "to get wet"
   },
   {
     "№": "321.",
@@ -4434,8 +4428,7 @@
     "Misol": "Itčȉbȉn ǯudȁ ǯāmȁn hȁšȁrȁt",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "dog fly",
-    "audio": "/audio/itchivin.acc"
+    "Inglizcha tarjimasi": "dog fly"
   },
   {
     "№": "337.",
@@ -4796,8 +4789,7 @@
     "Misol": "Biz har jȉli majȁpkaga boramiz",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "Picnic",
-    "audio": "/audio/mayofka.acc"
+    "Inglizcha tarjimasi": "Picnic"
   },
   {
     "№": "365.",
@@ -5083,7 +5075,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "Relative",
-    "audio": "/audio/og'ayin.acc"
+    "audio": "og'ayin.acc"
   },
   {
     "№": "387.",
@@ -5630,7 +5622,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "to panic",
-    "audio": "/audio/uchqaloqlamoq.aac"
+    "audio": "/audio/hovliqmoq.aac"
   },
   {
     "№": "429.",
@@ -6069,7 +6061,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "Edge",
-    "audio": "/audio/chakka.aac"
+    "audio": "/audio/chekka.aac"
   },
   {
     "№": "463.",
@@ -6159,8 +6151,7 @@
     "Misol": "Ječkilardȉŋ ičida čȁlγi ječki ham bārakȁn",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "white-eared goat",
-    "audio": "/audio/uloq.aac"
+    "Inglizcha tarjimasi": "white-eared goat"
   },
   {
     "№": "470.",
@@ -6211,8 +6202,7 @@
     "Misol": "Ximȉš minan putiga sāldi",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": "Rod",
-    "audio": "/audio/xivich.aac"
+    "Inglizcha tarjimasi": "Rod"
   },
   {
     "№": "474.",
@@ -6265,7 +6255,7 @@
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": "Small",
-    "audio": "/audio/maydagina.aac"
+    "audio": "/audio/mayda.aac"
   },
   {
     "№": "478.",
@@ -6295,171 +6285,171 @@
   },
   {
     "№": "480.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Qichima",
+    "Turkumi": "Sifat",
+    "Transliteratsiya": "Xarish",
+    "Transkripsiya": "Xȁriš",
+    "Izohi": "Tegmaganga teguvchi,qichima kishilarga nisbatan qo'llaniladi",
+    "Misol": "Šu bȁččȁ šundȁj xȁriš",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": ""
   },
   {
     "№": "481.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Shoshma-shoshar",
+    "Turkumi": "Sifat",
+    "Transliteratsiya": "Shoshavoy",
+    "Transkripsiya": "šāšȁvāj",
+    "Izohi": "Shoshib yuruvchi, shoshqaloq",
+    "Misol": "Ǯudȁ šāšȁvāj bȁččȁ bőldidȁ šul",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "Hurried"
   },
   {
     "№": "482.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Tugun",
+    "Turkumi": "Ot",
+    "Transliteratsiya": "Chiyin",
+    "Transkripsiya": "čȉjin",
+    "Izohi": "Yechilishi qiyin tugun, tugallik",
+    "Misol": "Bȁjlanip, čȉjin bőp qāgȁn",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "Tangle"
   },
   {
     "№": "483.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Zardob",
+    "Turkumi": "Ot",
+    "Transliteratsiya": "Sarisuv",
+    "Transkripsiya": "Sȁrisuv",
+    "Izohi": "Qatiqdan chiqqan suv,zardob",
+    "Misol": "Ȉssiq urγȁnda sȁrisuvga ǯuviš kerȁk ",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "Whey "
   },
   {
     "№": "484.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Yetim",
+    "Turkumi": "Sifat",
+    "Transliteratsiya": "Sog’ir",
+    "Transkripsiya": "Sāγȉr",
+    "Izohi": "Otasiz yoki onasiz qolgan farzandiga nisbatan qo’llaniladi",
+    "Misol": "Sāγȉrdiŋ kőŋlinȉ ͮoksitmȁslik kerȁk",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "an orphan"
   },
   {
     "№": "485.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Salobat ",
+    "Turkumi": "Ot",
+    "Transliteratsiya": "Salbar ",
+    "Transkripsiya": "Sȁlbȁr",
+    "Izohi": "Og’ir vazmin",
+    "Misol": "Kőrinišidan  sȁlbȁrli ǯȉgitȁkȁn",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": ""
   },
   {
     "№": "486.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Bo’sh ",
+    "Turkumi": "Sifat",
+    "Transliteratsiya": "Salqi",
+    "Transkripsiya": "Sȁlqȉ",
+    "Izohi": "Tarang emas, bo’sh",
+    "Misol": "Ǯȉbi sȁlqȉ bȁjlaŋȁnakȁn",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "not tense "
   },
   {
     "№": "487.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Tengqur ",
+    "Turkumi": "Sifat",
+    "Transliteratsiya": "Bo’yinsa",
+    "Transkripsiya": "Bőjinsȁ",
+    "Izohi": "Tengdosh, tengqur",
+    "Misol": "Āšnȁ, bőjiŋȁ bőjinsȁ top",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "Contemporary "
   },
   {
     "№": "489.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Sochiq",
+    "Turkumi": "ot",
+    "Transliteratsiya": "Chachaq",
+    "Transkripsiya": "Čȁčȁq",
+    "Izohi": "Sochiq ro’molcha",
+    "Misol": "Dȁstȁrxȁnni bāšigȁ čȁčȁqsiz ͮotirmȁ dejdi bābȁm",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "towel"
   },
   {
     "№": "490.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Xirmon",
+    "Turkumi": "Ot",
+    "Transliteratsiya": "Xirmanjay",
+    "Transkripsiya": "Xȉrmȁnǯȁj",
+    "Izohi": "Dala, xirmon",
+    "Misol": "Pȁxtȁkȁrlar xȉrmȁnǯȁjda tőplȁnȉšdi",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "threshing floor"
   },
   {
     "№": "491.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Ozmuncha ",
+    "Turkumi": "Ravish",
+    "Transliteratsiya": "Azbola",
+    "Transkripsiya": "Äzbālȁ",
+    "Izohi": "Ozmuncha,ko’p",
+    "Misol": "Äzbālȁ nȁrsamȁ bu mȁkkȁ",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "a litlle"
   },
   {
     "№": "492.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Hozir",
+    "Turkumi": "Ravish",
+    "Transliteratsiya": "Hamzamon",
+    "Transkripsiya": "Hȁmzȁman",
+    "Izohi": "Halizamon,hozir",
+    "Misol": "Hȁmzȁman qārȁŋȁ tušȉp qālȁdi",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "Now"
   },
   {
     "№": "493.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "-",
+    "Turkumi": "Ot",
+    "Transliteratsiya": "Uyitqi",
+    "Transkripsiya": "Ujȉtqi",
+    "Izohi": "Sutni uyitish uchun solinadigan qatiq yoki suzma",
+    "Misol": "Ujȉtqini ǯiligȁn sutgȁ soliš kerȁk",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": ""
   },
   {
     "№": "494.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Xomtalash",
+    "Turkumi": "Harakat nomi",
+    "Transliteratsiya": "Xamtalash",
+    "Transkripsiya": "Xȁmtȁlȁš",
+    "Izohi": "Alloh yo'lida jonliq so'yish,Xudoyi qilish",
+    "Misol": "Bittȁ qőjdi xȁmtȁlȁš qilȉp tārqȁttiq",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "butcher"
   },
   {
     "№": "495.",
@@ -6475,62 +6465,62 @@
   },
   {
     "№": "496.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "O'ra",
+    "Turkumi": "Ot",
+    "Transliteratsiya": "Vo'ra",
+    "Transkripsiya": "ͮ orȁ",
+    "Izohi": "Chuqurlik,sabzi,sholg'omlar saqlanish uchun mo'ljallangan chuqurlik",
+    "Misol": "Sȁbzini  ͮorȁdan ālip pȁlāv qilȁmiz",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "trench"
   },
   {
     "№": "497.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Bo'lak",
+    "Turkumi": "Ot",
+    "Transliteratsiya": "Tuyir",
+    "Transkripsiya": "Tujȉr",
+    "Izohi": "Bo'lak,burda",
+    "Misol": "Āvqȁtgȁ jekki tujȉr gőšt sȁldik ",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "piece"
   },
   {
     "№": "498.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Tugnak",
+    "Turkumi": "Ot",
+    "Transliteratsiya": "Tuynak",
+    "Transkripsiya": "Tujnȁk",
+    "Izohi": "Sapcha,tugnak",
+    "Misol": "Bul qovinlȁr hȁli pišmȁgȁn tujnȁk",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": ""
   },
   {
     "№": "499.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "G'ilay",
+    "Turkumi": "Sifat",
+    "Transliteratsiya": "Oqiy",
+    "Transkripsiya": "Āqij",
+    "Izohi": "Ko'zi g'ilay inson",
+    "Misol": "Bi jȁqqȁ qȁra āqij",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
     "Inglizcha tarjimasi": ""
   },
   {
     "№": "500.",
-    "Adabiy til": "",
-    "Turkumi": "",
-    "Transliteratsiya": "",
-    "Transkripsiya": "",
-    "Izohi": "",
-    "Misol": "",
+    "Adabiy til": "Oqchil",
+    "Turkumi": "Sifat",
+    "Transliteratsiya": "Oqquva",
+    "Transkripsiya": "Āqquvȁ",
+    "Izohi": "OQ erangli,oqchil",
+    "Misol": "Āqquvȁ jȉgit",
     "Hudud(viloyat)": "Surxondaryo",
     "Hudud (tuman)": "Jarqo‘rg‘on",
-    "Inglizcha tarjimasi": ""
+    "Inglizcha tarjimasi": "Off-white"
   }
 ]

@@ -42,10 +42,11 @@ interface NavigationProps {
 
 export function Navigation({ currentPage, onNavigate }: NavigationProps) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
-  
+
   const navItems = [
     { label: "Bosh sahifa", page: "home" },
-    { label: "So'zlar", page: "words" },
+    { label: "So'zlar jadvali", page: "words" },
+    { label: "Transkripsiya", page: "transcription" },
     { label: "Aloqa", page: "contact" },
     { label: "Loyiha haqida", page: "about" },
   ]
@@ -65,11 +66,10 @@ export function Navigation({ currentPage, onNavigate }: NavigationProps) {
               <button
                 key={item.page}
                 onClick={() => handleNavigation(item.page)}
-                className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
-                  currentPage === item.page 
-                    ? "bg-primary text-primary-foreground shadow-md" 
-                    : "text-muted-foreground hover:text-foreground hover:bg-muted"
-                }`}
+                className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${currentPage === item.page
+                  ? "bg-primary text-primary-foreground shadow-md"
+                  : "text-muted-foreground hover:text-foreground hover:bg-muted"
+                  }`}
               >
                 {item.label}
               </button>
@@ -101,11 +101,10 @@ export function Navigation({ currentPage, onNavigate }: NavigationProps) {
               <button
                 key={item.page}
                 onClick={() => handleNavigation(item.page)}
-                className={`w-full text-left px-4 py-3 rounded-lg text-sm font-medium transition-all duration-200 ${
-                  currentPage === item.page 
-                    ? "bg-primary text-primary-foreground shadow-md" 
-                    : "text-muted-foreground hover:text-foreground hover:bg-muted"
-                }`}
+                className={`w-full text-left px-4 py-3 rounded-lg text-sm font-medium transition-all duration-200 ${currentPage === item.page
+                  ? "bg-primary text-primary-foreground shadow-md"
+                  : "text-muted-foreground hover:text-foreground hover:bg-muted"
+                  }`}
               >
                 {item.label}
               </button>

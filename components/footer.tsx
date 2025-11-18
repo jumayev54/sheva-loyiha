@@ -7,18 +7,18 @@ export function Footer() {
             <h3 className="text-lg font-bold mb-4">Foydali Havolalar</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                  Uzbek Akademiyasi
+                <a href="https://tersu.uz/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+                  Termiz Davlat Universiteti
                 </a>
               </li>
               <li>
-                <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                  Til va Adab
+                <a href="https://axborottexnologiyalar.uz/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+                  Axborot Texnologiyalar Fakulteti
                 </a>
               </li>
               <li>
-                <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
-                  Lug'atlar
+                <a href="https://ziyonet.uz/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+                  ZiyoNET Ta'lim Portali
                 </a>
               </li>
             </ul>
@@ -28,9 +28,9 @@ export function Footer() {
             <h3 className="text-lg font-bold mb-4">Muallif Maqolalari</h3>
             <ul className="space-y-2">
               <li>
-                <a 
-                  href="/docs/maqola-1.pdf" 
-                  download 
+                <a
+                  href="/docs/maqola-1.pdf"
+                  download
                   className="text-muted-foreground hover:text-primary transition-colors inline-flex items-center gap-2"
                 >
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -40,9 +40,9 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a 
-                  href="/docs/maqola-2.docx" 
-                  download 
+                <a
+                  href="/docs/maqola-2.docx"
+                  download
                   className="text-muted-foreground hover:text-primary transition-colors inline-flex items-center gap-2"
                 >
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -52,9 +52,9 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a 
-                  href="/docs/maqola-3.docx" 
-                  download 
+                <a
+                  href="/docs/maqola-3.docx"
+                  download
                   className="text-muted-foreground hover:text-primary transition-colors inline-flex items-center gap-2"
                 >
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -64,9 +64,9 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a 
-                  href="/docs/maqola-4.docx" 
-                  download 
+                <a
+                  href="/docs/maqola-4.docx"
+                  download
                   className="text-muted-foreground hover:text-primary transition-colors inline-flex items-center gap-2"
                 >
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

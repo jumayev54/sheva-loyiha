@@ -7,11 +7,12 @@ import { FeaturedWords } from '@/components/featured-words'
 import { Footer } from '@/components/footer'
 import { HeroCarousel } from '@/components/hero-carousel'
 import { Navigation } from '@/components/navigation'
+import { TranscriptionPage } from '@/components/transcription-page'
 import { WordDetails } from '@/components/word-details'
 import { WordsTable } from '@/components/words-table'
 import { useState } from 'react'
 
-type PageType = 'home' | 'words' | 'contact' | 'about' | 'details'
+type PageType = 'home' | 'words' | 'transcription' | 'contact' | 'about' | 'details'
 
 interface SelectedWord {
 	id?: string
@@ -52,6 +53,9 @@ export default function Page() {
 				)}
 				{currentPage === 'words' && (
 					<WordsTable onSelectWord={handleWordSelect} />
+				)}
+				{currentPage === 'transcription' && (
+					<TranscriptionPage />
 				)}
 				{currentPage === 'details' && selectedWord && (
 					<WordDetails
